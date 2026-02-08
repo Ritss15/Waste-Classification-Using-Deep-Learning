@@ -27,3 +27,6 @@ Publicly available waste image dataset (Organic & Recyclable).
 
 ## Note
 This project was developed as a **Major Project during the B.Tech Data Science
+
+Note: The trained model file is not uploaded due to GitHub file size limits.
+The model can be shared separately if required.
